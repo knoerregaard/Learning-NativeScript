@@ -10,13 +10,14 @@
 - Learn about the core concepts of NativeScript
 - Learn how to get started with NativeScript
 - Learn how to utilize UI widgets
-### - Learn how to setup layouts
-### - Learn how to utilize application templates
-### - Learn about NativeScript tooling
+- Learn how to setup layouts
+- Learn how to utilize application templates
+- Learn about NativeScript tooling
 
 ## 2. Prerequisite
-### - JavaScript
-### - CSS
+- JavaScript
+- CSS
 
 ## 3. Learning path
-### 1. 
+1.
+2.
